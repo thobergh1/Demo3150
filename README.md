@@ -1,2 +1,2 @@
 # Demo3150
-Dette er en demonstrasjonsrepository
+Dette er et demonstrasjonsrepository
